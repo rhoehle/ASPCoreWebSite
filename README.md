@@ -1,0 +1,2 @@
+# ASPCoreWebSite
+ASPCoreVersion
